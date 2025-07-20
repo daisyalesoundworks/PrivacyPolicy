@@ -12,8 +12,6 @@ The information we collect is used solely to:
 
 Save and retrieve game progress
 
-Anonymously improve game features and user experience
-
 3. Sharing Your Information 
 We do not share any user information.
 
